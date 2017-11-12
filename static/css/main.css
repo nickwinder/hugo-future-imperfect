@@ -2516,9 +2516,9 @@
 
 	#sidebar {
 		margin-top: 3em;
-		margin-right: 3em;
-		min-width: 22em;
-		width: 22em;
+		margin-right: 6em;
+		min-width: 18em;
+		width: 18em;
 	}
 
 		#sidebar > * {
